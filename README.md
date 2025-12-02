@@ -8,14 +8,16 @@ Weekly Lab submissions must be structured as:
  - This will enable you to segment each week's work in respective folders, while still maintaining a single GIT.
  - Please ensure that folder structur is maintained properly (otherwise it won't be graded).
  - Additionally, each week's submission must also contain:
- -- Required solution based on the lab instructions (for instance, screenshot, configurations, commands. etc.)
- -- ReadME.MD (To document/answer the questions)
+ 
+ -- **`rgb(R,G,B)`Required solution** based on the lab instructions (for instance, screenshot, configurations, commands. etc.)
+ -- **ReadME.MD** (To document/answer the questions)
 
 # Grading
 This module will use the following grading:
  - Labs (70%)
  - Project Report (30%)
- -- Regular submission: Before the next lab 0900 hrs.
- -- Delayed submission: Before the end of next working week 1600 hrs (otherwise it won't be graded).
+ 
+ -- **Regular submission:** Before the next lab 0900 hrs.
+ -- **Delayed submission:** Before the end of next working week 1600 hrs (otherwise it won't be graded).
 
 
